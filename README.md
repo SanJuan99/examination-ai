@@ -2,7 +2,7 @@
 Examination-ai, Fe24, Johan Berg Ekvall.
 
 ## AI och datalogiskt tänkande 
-### 01 
+## 01 
 # ChatGPT: 
 "Hej! Ja, jag kan hjälpa dig med det.
 De fyra datalogiska delprocesserna är:
@@ -319,3 +319,66 @@ VM268:16 ✔️ Rätt! Du går vidare till 7
 VM268:23 🎉 Du klarade hela stegen på 32 kast!
 
 undefined
+
+## Ai som studiekamrat
+# 04
+Jag tror där det skulle börja uppstå problem är i större projekt. När det är många rader kod och olika saker som påverkas och det blir svårt för Ai att få allt att hänga ihop. Mindre projekt eller delar som är fokuserat på att bara göra en sak är ai bättre på tror jag.
+
+# 05
+# Aizo:
+"Självklart! Här används CSS-egenskapen box-shadow för att lägga till en skugga till ett element. Låt oss bryta ner värdena:
+
+12px: Detta är den horisontella offseten för skuggan. Ett positivt värde flyttar skuggan till höger, medan ett negativt värde skulle flytta den till vänster.
+
+12px: Detta är den vertikala offseten för skuggan. Ett positivt värde flyttar skuggan nedåt, medan ett negativt värde skulle flytta den uppåt.
+
+2px: Detta är suddighetsradien. Ju större värde, desto mer suddig blir skuggan. Ett värde på 0 skulle betyda att skuggan har skarpa kanter.
+
+1px: Detta är spridningsradien. Ett positivt värde gör skuggan större, medan ett negativt värde gör den mindre.
+
+rgba(0, 0, 255, .2): Detta anger färgen på skuggan. rgba står för röd, grön, blå och alfa (genomskinlighet). Här är skuggan blå (0, 0, 255) med en genomskinlighet på 20% (.2).
+
+Så, denna box-shadow skapar en blå skugga som ligger 12 pixlar till höger och 12 pixlar nedanför elementet, med en lätt suddighet och en liten spridning."
+# ChatGPT:
+"Absolut! Låt oss bryta ner den här CSS-regeln:
+
+box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+
+
+Detta skapar en skugga runt ett HTML-element.
+Här är vad varje del betyder:
+
+📦 box-shadow: Skapar en skugga bakom ett element
+
+Syntaxen är:
+
+box-shadow: offset-x offset-y blur-radius spread-radius color;
+
+📘 Din specifika regel:
+box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+
+
+Förklaring:
+
+Värde	Vad det gör
+12px	Horisontellt avstånd – skuggan förskjuts 12px till höger
+12px	Vertikalt avstånd – skuggan förskjuts 12px nedåt
+2px	Blur-radius (oskärpa) – gör skuggan mjukare, diffus med 2px
+1px	Spread-radius – skuggan expanderar 1px utåt från kanten
+rgba(0, 0, 255, 0.2)	Färg – en genomskinlig blå färg (20% opacitet)
+🎨 Visuellt:
+
+Det ser ut som att elementet har en svagt blå skugga.
+
+Skuggan ligger lite snett neråt till höger.
+
+Den är lite suddig (2px blur).
+
+Den är även lite större än själva elementet (1px spread).
+# MITT SVAR:
+Jag kan inte direkt se några språkliga skillnader. Den enda skillnaden jag kan se är att Aizo kanske förklarar lite smått mer vad ett värde gör. Båda förklarar vad alla värden betyder.
+
+# 06
+Jag såg inte att jag fick tillbaka exakt samma svar. chatGPT rekommenderade först en utdaterad lösning med promise(). Den kanske rekommenderar utdaterade svar när den märker att den måste skriva om fungerande kod?
+
+# 07 - Anpassa ChatGPT
