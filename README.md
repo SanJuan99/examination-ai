@@ -375,10 +375,52 @@ Skuggan ligger lite snett neråt till höger.
 Den är lite suddig (2px blur).
 
 Den är även lite större än själva elementet (1px spread).
-# MITT SVAR:
+## MITT SVAR
 Jag kan inte direkt se några språkliga skillnader. Den enda skillnaden jag kan se är att Aizo kanske förklarar lite smått mer vad ett värde gör. Båda förklarar vad alla värden betyder.
 
-# 06
+## 06
 Jag såg inte att jag fick tillbaka exakt samma svar. chatGPT rekommenderade först en utdaterad lösning med promise(). Den kanske rekommenderar utdaterade svar när den märker att den måste skriva om fungerande kod?
 
-# 07 - Anpassa ChatGPT
+## 07 - Anpassa ChatGPT
+Svaren skiljde sig åt. Innan jag la till anpassningarna så fick jag en mer generell förklaring till frågorna. Efter anpassningarna så var svaret mycket mer nischat och fick exempel i kod. Detta gjorde att jag lättare kunde förstå förklaringen och känna att jag kunde relatera det till mitt arbete.
+
+## 08
+Det är stor skillnad i hur chatGPT svarar. Med anpassningen så var svaret mycket mer pedagogiskt och utmanade mig till att tänka själv. Utan anpassningen så fick jag en lösning rakt av utan att behöva fundera själv.
+
+## 09
+Det är okej i scenarion där syftet är att man ska lära sig. Helst ska vi få hjälp av chatGPT på en pedagogisk nivå som exempelvis anpassningen här har varit. Självklart är det inte okej att be chatGPT om hjälp i scenarion där vi själva ska prestera och bevisa våra kunskaper (som examinationsuppgifter).
+
+## 10 
+En av dem första riskerna som kommer till minnet är att man inte helt lär sig något (eller faktiskt inte kan koda). Risken att man låter ai försöka lösa allt. Även om ai kan hjälpa så finns det också en till risk att man förlitar sig för mycket på det. Utvecklar inte kunskapen att googla och hitta information på andra sätt än via ai. Utvecklingen av ens egna kompetens hejdas också om man låter ai lösa ens uppgifter.
+
+## AI som kodkompis
+## 11
+Styrkor som student kan vara att Github Copilot kan hjälpa en skriva effektiv, förståelig kod? Man kanske har en bra struktur att jobba med redan från början. Samtidigt känns det att det kommer med många likadana svagheter som ai. Som att någon annan "tar över ratten" och du inte lär dig lika bra att navigera själv? github copilot känns som något bra för när man är längre fram i sin programmerings-karriär (När man redan vet hur saker och ting går till bakom kulliserna och du vill vara snabbare i att skriva/felsöka kod). Däremot tror jag också att man kan lära sig nya saker och få lite annant perspektivt av Github Copilot. 
+
+## 12
+Precis som med ai så känns det okej att använda Github Copilot i lärande syfte. På en pedagogisk nivå. Inte i syfte när man måste bevisa sina kunskaper. 
+
+## 13
+Alla alternativ och möjligheter som Copilot erbjuder! Snabbt kunna skriva mycket kod och inte behöva felsöka efter bug i timmar bara för att man råkat skriva fel syntax på ett pyttelitet ställe. Allting man kan lära sig som att skriva mer läsbar kod exempelvis.
+
+## AI i yrkeslivet
+## 14
+Det känns oroväckande att ai växer så snabbt. Jag ser absolut att det tyvärr finns en risk att ai kan ersätta många jobb nu och i framtiden. Redan idag används ai för att programmera och fördelar vi har nu med ai kan absolut omvandlas till nackdelar för programmerare. Vad stoppar ai från att bli så bra att en programmerare inte behövs längre eller åtminstone mycket färre programmerare? Jag tror att om/när ai utvecklas och blir bra på att ta egna beslut så kommer många programmerare försvinna. Fast det kanske medför många andra problem i sig också (att ai tar egna beslut).
+
+## 15
+AI som källa kan verka som opålitlig. AI kan göra fel, kan uppstå buggar. Koden kanske inte matchar teamets kodstil standard. Om AI-genererad kod orsakar problem som kanske säkerhetshål, driftstopp, eller juridiska frågor, vem kommer få bära ansvaret för det?
+
+## AI generellt
+## 16
+## AI-Tjänster
+### Tabnine: 
+Tabnine är en AI-assistent som är bra om man jobbar med känsliga projekt. Till skillnad från många andra kan den köras lokalt på din egen dator eller i företagets moln. Det gör att du behåller kontrollen över koden och ändå får smarta förslag när du skriver.
+
+### Amazon CodeWhisperer:
+CodeWhisperer är Amazons egen AI-assistent. Den är särskilt bra om du använder Amazons molntjänster, eftersom den kan ge färdiga kodexempel som funkar direkt där. En extra styrka är att den varnar för osäker kod och föreslår tryggare alternativ.
+
+### Replit Ghostwriter:
+Ghostwriter finns direkt i Replit, en utvecklingsmiljö som körs i webbläsaren. Det betyder att du kan koda var du än är och få hjälp med förslag, förklaringar och felsökning direkt. Det är enkelt att samarbeta med andra och bygga prototyper snabbt, utan att behöva krångla med installationer.
+
+## 17
+Som studerande så känns det mest användbart att använda verktyg som är pedagogiska under utbildningen och även lite kanske under yrkeslivet. exempelvis chatGPT med anpassning eller Aizo som redan är anpassad till att få en till att fundera. I yrkesroll så tror jag att program som kommer vara mer till hjälp är Github CoPilot eller liknande. Något som underlättar att skriva snabbare, effektivare kod, felsöka buggar lättare, tjänster som hjälper en att programmera snabbare.
